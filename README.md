@@ -13,7 +13,7 @@
 
     <p>No data is collected, processed, or transmitted to any external servers.</p>
 
-    <p>If you have any questions, contact us at: your-email@example.com</p>
+    <p>If you have any questions, contact us at: reztitude@example.com</p>
 
     <p>This policy may be updated in the future if new features are added.</p>
 </body>
